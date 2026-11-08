@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9c&height=220&section=header&text=Ashad%20Ansari&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9c&height=220&section=header&text=Ashad%20Ansari&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Pentester%20%7C%20Bug%20Bounty%20Hunter&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+ethical+hacker+%26+web+dev;%24+nmap+-sV+target+%E2%86%92+always+with+permission;%24+break+things+%E2%86%92+responsibly+disclose;%24+learn+%7C+hack+%7C+repeat" alt="Typing SVG" />
