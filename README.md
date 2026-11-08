@@ -75,7 +75,7 @@
 - 🌐 Building and polishing web projects and my portfolio
 - 📚 Sharpening my pentesting methodology through labs and CTF-style practice
 
-> 📝 **Read my write-ups:** [ashadansari.github.io](https://ashadansari.github.io)
+> 📝 **Read my write-ups:** [ashadansari.github.io]([https://ashadansari.github.io](https://ashadansari.github.io/BugBounty-web/))
 
 ---
 
