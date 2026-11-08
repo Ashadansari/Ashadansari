@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashadansari&label=Profile%20Views&color=00ff9c&style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/ashadansari?style=for-the-badge&color=00ff9c&labelColor=0d1117&logo=github)
-[![Blog](https://img.shields.io/badge/Blog-ashadansari.github.io-00ff9c?style=for-the-badge&logo=hashnode&logoColor=00ff9c&labelColor=0d1117)](https://ashadansari.github.io)
+[![Blog](https://img.shields.io/badge/Blog-ashadansari.github.io-00ff9c?style=for-the-badge&logo=hashnode&logoColor=00ff9c&labelColor=0d1117)]([https://ashadansari.github.io](https://ashadansari.github.io/BugBounty-web/))
 
 </div>
 
